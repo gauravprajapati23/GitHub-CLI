@@ -164,8 +164,8 @@ to instantly sync.
 ---
 
 ## 💚 Credits
-Made with ❤️ by **The Matrix Crew**  
-Termux Automation by **Gaurav Prajapati** ⚡  
+Made with ❤️ by **The Matrix**  
+GitHub CLI by **Gaurav Prajapati** and **Pradnya Tavandkar**
 > “💻 Code flows like rain in the Matrix.”
 
 ---
