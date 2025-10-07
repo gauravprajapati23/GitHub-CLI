@@ -1,4 +1,4 @@
-# 💀 The Matrix GitHub Auto Push v2
+# 💀 The Matrix GitHub CLI
 > **Automate GitHub uploads directly from Termux with animations, safe directories, and a full setup flow.**  
 > No manual commands — just run `git safe` and `push` 😎
 
