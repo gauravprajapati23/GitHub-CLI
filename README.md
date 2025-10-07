@@ -3,7 +3,7 @@
 > No manual commands — just run `git safe` and `push` 😎
 
 <p align="center">
-  <img src="image/header.jpg" alt="The Matrix GitHub CLI" width="800">
+  <img src="Image/header.jpg" alt="The Matrix GitHub CLI" width="800">
 </p>
 
 ---
