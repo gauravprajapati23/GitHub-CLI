@@ -51,9 +51,10 @@ mkdir -p /storage/emulated/0/#GitHub
 
 ### 4️⃣ Download and run Matrix setup script
 ```bash
-cd ~
-curl -o matrix-setup.sh https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/matrix-setup.sh
-bash matrix-setup.sh
+cd 
+git clone https://github.com/gauravprajapati23/GitHub-CLI.git
+cd GitHub CLI
+bash setup.sh
 ```
 
 > 🔹 Replace `<YOUR_USERNAME>` and `<YOUR_REPO>` with your GitHub repo name where you stored this script.  
