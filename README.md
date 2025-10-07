@@ -1,6 +1,10 @@
-# 💀 The Matrix GitHub Auto Push v2
+# 💀 The Matrix GitHub CLI
 > **Automate GitHub uploads directly from Termux with animations, safe directories, and a full setup flow.**  
 > No manual commands — just run `git safe` and `push` 😎
+
+<p align="center">
+  <img src="image/header.jpg" alt="The Matrix GitHub CLI" width="800">
+</p>
 
 ---
 
@@ -51,12 +55,12 @@ mkdir -p /storage/emulated/0/#GitHub
 
 ### 4️⃣ Download and run Matrix setup script
 ```bash
-cd ~
-curl -o matrix-setup.sh https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/matrix-setup.sh
-bash matrix-setup.sh
+cd 
+git clone https://github.com/gauravprajapati23/GitHub-CLI.git
+cd GitHub CLI
+bash setup.sh
 ```
 
-> 🔹 Replace `<YOUR_USERNAME>` and `<YOUR_REPO>` with your GitHub repo name where you stored this script.  
 > The setup will install two new commands:
 > - `git safe` → Add safe directory  
 > - `push` → Upload project to GitHub
@@ -163,8 +167,8 @@ to instantly sync.
 ---
 
 ## 💚 Credits
-Made with ❤️ by **The Matrix Crew**  
-Termux Automation by **Gaurav Prajapati** ⚡  
+Made with ❤️ by **The Matrix**  
+GitHub CLI by **Gaurav Prajapati** and **Pradnya Tavandkar**
 > “💻 Code flows like rain in the Matrix.”
 
 ---
