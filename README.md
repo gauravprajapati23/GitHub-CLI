@@ -57,7 +57,6 @@ cd GitHub CLI
 bash setup.sh
 ```
 
-> 🔹 Replace `<YOUR_USERNAME>` and `<YOUR_REPO>` with your GitHub repo name where you stored this script.  
 > The setup will install two new commands:
 > - `git safe` → Add safe directory  
 > - `push` → Upload project to GitHub
