@@ -57,7 +57,7 @@ mkdir -p /storage/emulated/0/#GitHub
 ```bash
 cd 
 git clone https://github.com/gauravprajapati23/GitHub-CLI.git
-cd GitHub CLI
+cd GitHub-CLI/
 bash setup.sh
 ```
 
