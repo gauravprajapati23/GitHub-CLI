@@ -167,8 +167,8 @@ to instantly sync.
 ---
 
 ## 💚 Credits
-Made with ❤️ by **The Matrix**  
-GitHub CLI by **Gaurav Prajapati** and **Pradnya Tavandkar**
+Devloped by **The Matrix**  
+GitHub CLI Developed by **Gaurav Prajapati** and **Pradnya Tavandkar**
 > “💻 Code flows like rain in the Matrix.”
 
 ---
